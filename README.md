@@ -1,5 +1,5 @@
 # Procesamiento de imágenes utilizando OpenMP
-
+- Proyecto de procesamiento de imágenes en C++ con paralelismo (OpenMP), incluyendo filtros, compresión y esteganografía.
 ## Investigación del curso Introducción a la Programación Paralela
 
 - **Estudiantes:**
